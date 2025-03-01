@@ -15,13 +15,11 @@ Explain what software engineering is and discuss its importance in the technolog
     Software engineering plays a crucial role in the technology industry by enabling the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-1.The Birth of Software Engineering (1968)
-In 1968, experts met and decided software development should follow engineering principles, like building bridges or airplanes
 
-    2. Object-Oriented Programming (1980s-1990s)
-        As software complexity increased, object-oriented programming (OOP) provided a way to manage large codebases efficiently. OOP introduced concepts like encapsulation, inheritance, and polymorphism, allowing developers to build reusable and modular software components
-    3. The Rise of DevOps and Automation (2010s-Present)
-        Software development and IT operations were traditionally separate, causing inefficiencies in deployment and maintenance. DevOps emerged to bridge this gap by promoting automation, continuous integration/continuous deployment (CI/CD), and collaboration
+    1. Development of programming languages
+    2. Establishment of software engineering as a discipline
+    3. The advent of structured programming
+    4. The rise of agile methodologies
 
 List and briefly explain the phases of the Software Development Life Cycle.
 Strategy
