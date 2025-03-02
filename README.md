@@ -31,16 +31,16 @@ This stage outlines the project's objectives, boundaries, and needs. Developers 
     Design
     Architects and developers design system models, database frameworks, and user interfaces. This stage encompasses high-level design (system structure) and detailed design (individual components).
 
-    Execution (Programming)
+    Implementation
     Programmers create the actual code according to the design specifications. They adhere to best practices and utilize programming languages appropriate for the project.
 
-    Assessment
+    Testing
     The software undergoes testing for bugs, performance problems, and security weaknesses. Types of testing consist of unit testing (individual components), integration testing (modules collaborating), and system testing (complete application).
 
-    Implementation
+    Deployment
     The software has been made available to users. This can be implemented in stages (incremental deployment) or simultaneously. In applications based in the cloud, deployment is frequently automated.
 
-    Upkeep
+    Maintaenance
     Developers address bugs, enhance features, and improve performance according to user suggestions. This stage guarantees that the software stays operational and safe as time progresses
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
