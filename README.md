@@ -8,6 +8,7 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
+    Software engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
@@ -40,26 +41,28 @@ This stage outlines the project's objectives, boundaries, and needs. Developers 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
+    Waterfall is a sequential approach with distinct phases flowing downwards whereas agile uses an iterative and incremental approach
+
+    Waterfall is appropriate when we have all the requrement set and ready agile is appropriate when the systems requires feature testings an updates
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
-    Software Engineer
+    Software Developer
         Writing Code
-        Debugging Code
+      
 
     Quality Assurance Engineer
-        Designing and Executing Tests
-        Identifying and reporting bugs
+        Ensures software quality by designing and executing test plans.
+
 
     Project Manager
-        Defining Project Goals and timelines
-        Assigning tasks and ensuring smooth collaboration
+        Oversees the planning, execution, and delivery of software projects
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-IDEs provide a single, integrated platform that combines multiple software development tools and features into a comprehensive workspace
-Examples
-VS Code
-Android Studio
+    IDEs provide a single, integrated platform that combines multiple software development tools and features into a comprehensive workspace
+        Examples
+            VS Code
+            Android Studio
 
     VCSs maintain a chronological record of all changes made to a codebase, allowing developers to track the evolution of the project and easily revert to previous versions if necessary.
         Examples
@@ -79,7 +82,6 @@ What are some common challenges faced by software engineers? Provide strategies 
         Establish clear communication channels and define expectations with all stakeholders.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
 
 #Part 2: Introduction to AI and Prompt Engineering
 
